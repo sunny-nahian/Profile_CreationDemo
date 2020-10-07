@@ -1,5 +1,5 @@
 # Profile_creationDemo
-It's my First testing Project. Here i trying how to making a good own profile...., this system take ta data from user and Store ta database that shown the profile informations. Here i also use how to take your picture from camera &amp; Gallery. It will be able any platform to send or share your seted messages.
+It's my First testing Project. Here i trying how to making a good own profile...., This system take Data from user and Store Database that shown the profile informations. Here i also use how to take your picture from camera & Gallery. It will be able any platform to send or share your seted messages.
 
 # About_app :
 This project is done entirely for my own practise. This is not a complete package project, but i hope it's very helpful project for became begginer to advance level.  you can take the help of different different parts from the project.......
