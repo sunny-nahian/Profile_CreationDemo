@@ -8,14 +8,14 @@ This project is done entirely for my own practise. This is not a complete packag
 <br/>
 
 
-- **Circle imageview
-- **Take Data from users
-- **Add Sharedpreference
-- **Store the user data
-- **Set image from Gallery
-- **Take a Picture your camera permission
-- **Settings part
-- **Send Messages
+- **Circle imageview**
+- **Take Data from users**
+- **Add Sharedpreference**
+- **Store the user data**
+- **Set image from Gallery**
+- **Take a Picture your camera permission**
+- **Settings part**
+- **Send Messages**
 <br/>
 
 ## System Views :
