@@ -4,7 +4,7 @@ It's my First testing Project. Here i trying how to making a good own profile...
 # About_app :
 This project is done entirely for my own practise. This is not a complete package project, but i hope it's very helpful project for became begginer to advance level.  you can take the help of different different parts from the project.......
 
-## Here i Uses :
+## Here i uses :
 
 - Circle imageview
 - Take Data from users
@@ -16,7 +16,7 @@ This project is done entirely for my own practise. This is not a complete packag
 - Send Messages
 <br/>
 
-## System Vies :
+## System Views :
 ![Screenshot_2020-10-07-11-56-16-95](https://user-images.githubusercontent.com/59596434/95296383-8425fd00-089a-11eb-9e67-b73396b47c43.png)
 <br/>
 ![Screenshot_2020-10-07-11-58-11-97](https://user-images.githubusercontent.com/59596434/95296402-8be5a180-089a-11eb-8ae2-51499dc7aa9c.png)
